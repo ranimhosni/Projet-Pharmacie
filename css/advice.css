@@ -1,0 +1,16 @@
+.cont {
+	display:flex;
+	align-items: center;
+	justify-content: center
+  }
+  
+  .ad {
+	width: 300px;
+	height:200px;
+    margin: 30px;
+  }
+  
+  .text {
+	font-size: 20px;
+	padding-left: 20px;
+  }
